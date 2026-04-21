@@ -1,1 +1,1 @@
-# vore-feature-final
+# core-feature-final
